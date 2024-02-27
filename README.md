@@ -10,7 +10,7 @@ Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 - 🧑‍💻 I’m currently working on Skills developing   
  
  
-- ✍️ I’m currently learning C++ & Python 
+- ✍️ I’m currently learning C++,Java & Python 
 
  
 - 🧑‍💼 I’m looking to collaborate on IEEE  
