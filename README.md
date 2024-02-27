@@ -21,12 +21,12 @@ Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahnaf-hasan-76)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahnaf0-0)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnaf-hasan-76&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AAhnaf0-0&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahnaf-hasan-76)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahnaf0-0)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ahnaf-hasan-76)  
+![GitHub metrics](https://metrics.lecoq.io/Ahnaf0-0)  
 
-![Profile views](https://gpvc.arturio.dev/Ahnaf-hasan-76)  
+![Profile views](https://gpvc.arturio.dev/Ahnaf0-0)  
