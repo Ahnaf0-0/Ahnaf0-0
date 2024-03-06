@@ -24,5 +24,3 @@ Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahnaf0-0)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnaf0-0&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/insights/Ahnaf0-0)  
