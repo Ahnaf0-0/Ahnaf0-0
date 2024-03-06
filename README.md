@@ -25,8 +25,4 @@ Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnaf0-0&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahnaf0-0)  
-
-![GitHub metrics](https://metrics.lecoq.io/Ahnaf0-0)  
-
-![Profile views](https://gpvc.arturio.dev/Ahnaf0-0)  
+![GitHub metrics](https://metrics.lecoq.io/insights/Ahnaf0-0)  
