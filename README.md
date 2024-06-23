@@ -5,7 +5,7 @@
 
 I’m a computer science student at American International University. I’m passionate about technology and its ability to solve real-world problems. I have experience in programming languages such as C++, Python and Java. I’m also interested in data science and AI engineering. I believe that these fields have the potential to revolutionize the way we live and work. In my free time, I enjoy reading about the latest advancements in these fields and working on projects that allow me to apply my knowledge.
 
-Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
+Skills: C++/Java/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 
 - 🧑‍💻 I’m currently working on Skills developing   
  
